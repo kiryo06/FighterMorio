@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # mp4は読み込まない
-*.mp4
+#*.mp4
